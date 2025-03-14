@@ -74,7 +74,7 @@ export const About = () => {
                             <li>
                                 <strong>Software Developer </strong>at Architectural Window Systems (Aug 2024 - present)
 
-                                <p className="text-gray-400 mt-2">In this role, i&#39;ve mainly been working working within the .NET ecosystem, using C#, SQL and VB languages with technologies such as WinForms and MS SQL. My responsibilites have been: leading development on a connectivity project for the business (which will be an industry-first) and assisting in maintaining the software solutions already available for the business&#39; clients.</p>
+                                <p className="text-gray-400 mt-2">In this role, i&#39;ve mainly been working within the .NET ecosystem, using C#, SQL and VB languages with technologies such as WinForms and MS SQL. My responsibilites have been: leading development on a connectivity project for the business (which will be an industry-first) and assisting in maintaining the software solutions already available for the business&#39; clients.</p>
                             </li>
                         </ul>
                     </div>
