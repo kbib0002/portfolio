@@ -10,9 +10,9 @@ export const About = () => {
                     About
                 </h2>
 
-                <h3 className="text-3xl font-bold text-gray-400 mb-4">I work full-time at <span className='text-white'>Architectural Window Systems.</span></h3>
+                <h3 className="text-3xl font-bold text-gray-400 mb-4">I work full-time as a software developer at <span className='text-white'>Architectural Window Systems.</span></h3>
                 <h3 className="text-3xl font-bold text-white mb-4">+</h3>
-                <h3 className="text-3xl font-bold text-gray-400 mb-32">I study part-time at <span className='text-white'>Monash University.</span></h3>
+                <h3 className="text-3xl font-bold text-gray-400 mb-32">I study software engineering part-time at <span className='text-white'>Monash University.</span></h3>
 
                 <div className='grid grid-cols-1 md:grid-cols-2 gap-16'>
                     <div className="rounded-xl p-8 border-white/10 border hover:border-white/30 hover:-translate-y-0.5 transition-all">
