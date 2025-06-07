@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { MagicCard } from "@/components/magicui/magic-card";
 import { AuroraText } from "@/components/magicui/aurora-text";
 
@@ -12,10 +11,10 @@ export default function Community() {
                     <div className="lg:flex gap-8">
                         <div className="lg:w-[50%] p-4 flex items-center">
                             <div className="columns-2 gap-4 space-y-4">
-                                <Image className="rounded-lg w-full h-auto" src="/whc1.jpg" alt="whc 1" width={500} height={500}/>
-                                <Image className="rounded-lg w-full h-auto" src="/whc2.jpg" alt="whc 2" width={500} height={500}/>
-                                <Image className="rounded-lg w-full h-auto" src="/whc4.jpg" alt="whc 4" width={500} height={500}/>
-                                <Image className="rounded-lg w-full h-auto" src="/whc3.jpg" alt="whc 3" width={500} height={500}/>
+                                <picture><img className="rounded-lg w-full h-auto" src="/whc1.jpg" alt="whc 1" width={500} height={500}/></picture>
+                                <picture><img className="rounded-lg w-full h-auto" src="/whc2.jpg" alt="whc 2" width={500} height={500}/></picture>
+                                <picture><img className="rounded-lg w-full h-auto" src="/whc4.jpg" alt="whc 4" width={500} height={500}/></picture>
+                                <picture><img className="rounded-lg w-full h-auto" src="/whc3.jpg" alt="whc 3" width={500} height={500}/></picture>
                             </div>
                         </div>
 
@@ -67,10 +66,10 @@ export default function Community() {
 
                         <div className="lg:w-[50%] p-4 flex items-center">
                             <div className="columns-2 gap-4 space-y-4">
-                                <Image className="rounded-lg w-full h-auto" src="/bca1.jpg" alt="whc 1" width={500} height={500}/>
-                                <Image className="rounded-lg w-full h-auto" src="/bca4.jpg" alt="whc 2" width={500} height={500}/>
-                                <Image className="rounded-lg w-full h-auto" src="/bca3.jpg" alt="whc 3" width={500} height={500}/>
-                                <Image className="rounded-lg w-full h-auto" src="/bca2.jpg" alt="whc 4" width={500} height={500}/>
+                                <picture><img className="rounded-lg w-full h-auto" src="/bca1.jpg" alt="whc 1" width={500} height={500}/></picture>
+                                <picture><img className="rounded-lg w-full h-auto" src="/bca4.jpg" alt="whc 2" width={500} height={500}/></picture>
+                                <picture><img className="rounded-lg w-full h-auto" src="/bca3.jpg" alt="whc 3" width={500} height={500}/></picture>
+                                <picture><img className="rounded-lg w-full h-auto" src="/bca2.jpg" alt="whc 4" width={500} height={500}/></picture>
                             </div>
                         </div>
                     </div>
@@ -78,8 +77,8 @@ export default function Community() {
                     <div className="lg:flex gap-8">
                         <div className="lg:w-[50%] p-4 flex items-center">
                             <div className="gap-4 space-y-4 w-full">
-                                <Image className="rounded-lg w-full h-auto" src="/run1.jpg" alt="run 1" width={500} height={500}/>
-                                <Image className="rounded-lg w-full h-auto" src="/run2.jpg" alt="run 2" width={500} height={500}/>
+                                <picture><img className="rounded-lg w-full h-auto" src="/run1.jpg" alt="run 1" width={500} height={500}/></picture>
+                                <picture><img className="rounded-lg w-full h-auto" src="/run2.jpg" alt="run 2" width={500} height={500}/></picture>
                             </div>
                         </div>
 
