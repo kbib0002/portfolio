@@ -8,7 +8,7 @@ const features = [
     description: "Developing desktop and web-based applications from the ground up.",
     href: "/",
     cta: "Learn more",
-    background: <img className="absolute -right-20 -top-20 opacity-60" />,
+    background: <picture><img className="absolute -right-20 -top-20 opacity-60" alt="full stack development"/></picture>,
     className: "lg:row-start-1 lg:row-end-4 lg:col-start-2 lg:col-end-3",
   },
   {
@@ -17,7 +17,7 @@ const features = [
     description: "Designing wireframes and high-fidelity mockups, complete with user journeys.",
     href: "/",
     cta: "Learn more",
-    background: <img className="absolute -right-20 -top-20 opacity-60" />,
+    background: <picture><img className="absolute -right-20 -top-20 opacity-60" alt="ui / ux design"/></picture>,
     className: "lg:col-start-1 lg:col-end-2 lg:row-start-1 lg:row-end-3",
   },
   {
@@ -26,7 +26,7 @@ const features = [
     description: "Automating operating system tasks and CI / CD.",
     href: "/",
     cta: "Learn more",
-    background: <img className="absolute -right-20 -top-20 opacity-60" />,
+    background: <picture><img className="absolute -right-20 -top-20 opacity-60" alt="scripting"/></picture>,
     className: "lg:col-start-1 lg:col-end-2 lg:row-start-3 lg:row-end-4",
   },
   {
@@ -35,7 +35,7 @@ const features = [
     description: "Ensuring that code has the lowest possible time and space complexities.",
     href: "/",
     cta: "Learn more",
-    background: <img className="absolute -right-20 -top-20 opacity-60" />,
+    background: <picture><img className="absolute -right-20 -top-20 opacity-60" alt="code optimisation"/></picture>,
     className: "lg:col-start-3 lg:col-end-3 lg:row-start-1 lg:row-end-2",
   },
   {
@@ -44,7 +44,7 @@ const features = [
     description: "Designing entity-relationship diagrams based on a set of requirements.",
     href: "/",
     cta: "Learn more",
-    background: <img className="absolute -right-20 -top-20 opacity-60" />,
+    background: <picture><img className="absolute -right-20 -top-20 opacity-60" alt="database design"/></picture>,
     className: "lg:col-start-3 lg:col-end-3 lg:row-start-2 lg:row-end-4",
   },
 ];

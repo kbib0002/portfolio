@@ -30,10 +30,10 @@ export default function Experience() {
                                 </p>
                                 <div className="flex justify-between items-center">
                                     <div className="flex space-x-2">
-                                        <img width="32" height="32" alt="react" src="https://cdn.simpleicons.org/react"/>
-                                        <img width="32" height="32" alt="typescript" src="https://cdn.simpleicons.org/typescript"/>
-                                        <img width="32" height="32" alt="node.js" src="https://cdn.simpleicons.org/node.js"/>
-                                        <img width="32" height="32" alt="vite" src="https://cdn.simpleicons.org/vite"/>
+                                        <picture><img width="32" height="32" alt="react" src="https://cdn.simpleicons.org/react"/></picture>
+                                        <picture><img width="32" height="32" alt="typescript" src="https://cdn.simpleicons.org/typescript"/></picture>
+                                        <picture><img width="32" height="32" alt="node.js" src="https://cdn.simpleicons.org/node.js"/></picture>
+                                        <picture><img width="32" height="32" alt="vite" src="https://cdn.simpleicons.org/vite"/></picture>
                                     </div>
                                     <div>
                                         <p className="text-sm md:text-base">Aug 2024 - present</p>

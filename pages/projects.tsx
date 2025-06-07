@@ -44,11 +44,11 @@ export default function Projects() {
                                 </p>
                                 <div className="flex justify-between">
                                     <div className="flex space-x-2">
-                                        <img width="32" height="32" alt="react" src="https://cdn.simpleicons.org/react"/>
-                                        <img width="32" height="32" alt="javascript" src="https://cdn.simpleicons.org/javascript"/>
-                                        <img width="32" height="32" alt="mongodb" src="https://cdn.simpleicons.org/mongodb"/>
-                                        <img width="32" height="32" alt="docker" src="https://cdn.simpleicons.org/docker"/>
-                                        <img width="32" height="32" alt="node.js" src="https://cdn.simpleicons.org/node.js"/>
+                                        <picture><img width="32" height="32" alt="react" src="https://cdn.simpleicons.org/react"/></picture>
+                                        <picture><img width="32" height="32" alt="javascript" src="https://cdn.simpleicons.org/javascript"/></picture>
+                                        <picture><img width="32" height="32" alt="mongodb" src="https://cdn.simpleicons.org/mongodb"/></picture>
+                                        <picture><img width="32" height="32" alt="docker" src="https://cdn.simpleicons.org/docker"/></picture>
+                                        <picture><img width="32" height="32" alt="node.js" src="https://cdn.simpleicons.org/node.js"/></picture>
                                     </div>
                                     <div>
                                         <a href="https://github.com/Monash-FIT3170/Behind-The-Veil" target="_blank">

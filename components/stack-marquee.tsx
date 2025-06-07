@@ -77,7 +77,7 @@ const StackCard = ({
       )}
     >
       <div className="flex flex-row justify-center items-center gap-2">
-        <img width="32" height="32" alt={name} src={`https://cdn.simpleicons.org/${icon}`} />
+        <picture><img width="32" height="32" alt={name} src={`https://cdn.simpleicons.org/${icon}`}/></picture>
         <p>{name}</p>
       </div>
     </figure>
