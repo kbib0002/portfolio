@@ -66,7 +66,7 @@ export default function Community() {
 
                         <div className="lg:w-[50%] p-4 flex items-center">
                             <div className="columns-2">
-                                <picture><img className="mb-4 rounded-lg w-full h-auto" src="./bca1.jpg" alt="whc 1" width={500} height={500}/></picture>
+                                <picture><img className="mb-4 rounded-lg w-full h-auto" src="./bca1.JPG" alt="whc 1" width={500} height={500}/></picture>
                                 <picture><img className="rounded-lg w-full h-auto" src="./bca4.jpg" alt="whc 2" width={500} height={500}/></picture>
                                 <picture><img className="mb-4 rounded-lg w-full h-auto" src="./bca3.jpg" alt="whc 3" width={500} height={500}/></picture>
                                 <picture><img className="rounded-lg w-full h-auto" src="./bca2.jpg" alt="whc 4" width={500} height={500}/></picture>
