@@ -1,13 +1,13 @@
 {
-  "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
   "/about": "pages/about.html",
+  "/_error": "pages/_error.js",
   "/experience": "pages/experience.html",
   "/community": "pages/community.html",
-  "/services": "pages/services.html",
+  "/hero": "pages/hero.html",
   "/footer": "pages/footer.html",
   "/projects": "pages/projects.html",
-  "/hero": "pages/hero.html",
+  "/services": "pages/services.html",
+  "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
   "/404": "pages/404.html"
 }
