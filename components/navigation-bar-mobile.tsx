@@ -13,7 +13,7 @@ import {
 const MobileNavigation = () => {
   return (
     <Sheet>
-      <SheetTrigger className="md:hidden mr-3 cursor-pointer">
+      <SheetTrigger className="lg:hidden mr-3 cursor-pointer">
         <AlignLeft size={25} />
       </SheetTrigger>
 

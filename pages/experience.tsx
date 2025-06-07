@@ -11,15 +11,15 @@ export default function Experience() {
                         <MagicCard className="rounded-lg">
                             <div className="p-8 space-y-8">
                                 <div className="flex justify-between border-b pb-8">
-                                    <span className="text-lg font-bold  sm:text-xl lg:text-2xl/none">Software Developer</span>
-                                    <span className="text-lg font-bold  sm:text-xl lg:text-2xl/none text-right text-muted-foreground">Architectural Window Systems</span>
+                                    <span className="text-sm font-bold  sm:text-xl lg:text-2xl">Software Developer</span>
+                                    <span className="text-sm font-bold  sm:text-xl lg:text-2xl text-right text-muted-foreground">Architectural Window Systems</span>
                                 </div>
-                                <p className="text-muted-foreground text-sm md:text-base">
+                                <p className="text-muted-foreground text-xs sm:text-sm md:text-base">
                                     In this role I have been leading development on a <span className="font-semibold">CNC automation project</span>,
                                     building a <span className="font-semibold">desktop application</span> and maintaining
                                     <span className="font-semibold"> existing software solutions</span> for clients.
                                 </p>
-                                <p className="text-muted-foreground text-sm md:text-base">
+                                <p className="text-muted-foreground text-xs sm:text-sm md:text-base">
                                     The legacy software which the business works with is all within the
                                     <span className="font-semibold"> .NET</span> ecosystem, hence I have experience
                                     with <span className="font-semibold">C#</span>, <span className="font-semibold">VBA</span>
@@ -36,7 +36,7 @@ export default function Experience() {
                                         <picture><img width="32" height="32" alt="vite" src="https://cdn.simpleicons.org/vite"/></picture>
                                     </div>
                                     <div>
-                                        <p className="text-sm md:text-base">Aug 2024 - present</p>
+                                        <p className="text-right text-xs sm:text-sm md:text-base">Aug 2024 - present</p>
                                     </div>
                                 </div>
                             </div>

@@ -9,8 +9,8 @@ export default function Hero() {
             <div className="flex w-full max-w-7xl gap-16 items-center">
                 <div className="flex-1 flex flex-col space-y-8 max-w-lg xl:pl-24">
                     <div className="space-y-4">
-                        <h1 className="text-5xl font-bold lg:text-6xl/none">Hi, I&#39;m Kyle</h1>
-                        <p className="text-balance text-muted-foreground md:text-lg gap-2 flex" aria-label="email address">
+                        <h1 className="text-5xl sm:text-6xl font-bold lg:text-6xl/none">Hi, I&#39;m Kyle</h1>
+                        <p className="text-muted-foreground sm:text-lg md:text-lg gap-2 flex" aria-label="email address">
                             <MapPin className="size-5 md:size-6"/>
                             Melbourne, Australia
                         </p>

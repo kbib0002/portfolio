@@ -9,7 +9,7 @@ const NavigationBar = () => {
             <div className="container flex h-15 items-center w-[80%] mx-auto">
                 <NavigationBarMobile/>
 
-                <div className="hidden md:flex gap-2">
+                <div className="hidden lg:flex gap-2">
                     <Link className="mr-24 flex items-center" href="/">
                     <span className="font-bold text-base md:text-lg lg:text-xl">
                     Kyle Bibby
